@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "10744838546",
+    "project_id": "learnauthe",
+    "storage_bucket": "learnauthe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10744838546:android:29815833d4606e9a9aa94b",
+        "android_client_info": {
+          "package_name": "com.example.firebase_learnauthexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10744838546-4gguhrs3q5hbneqb5mfjkdp9jva4urlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy35dfl6lQ5-uIpB4t6F2JjTOWCay_c2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10744838546-4gguhrs3q5hbneqb5mfjkdp9jva4urlo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
